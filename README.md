@@ -1,4 +1,10 @@
 ### Hi there 👋
+😄 I'm Dzmitry from Minsk.
+
+👯 Check out some of my study projects:
+
+  - [English for kids](https://rolling-scopes-school.github.io/dmitry-sokolovsky-JS2020Q3/english-for-kids/) - english learning game for kids
+    - repo git@github.com:rolling-scopes-school/dmitry-sokolovsky-JS2020Q3.git
 
 <!--
 **Dmitry-Sokolovsky/Dmitry-Sokolovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
