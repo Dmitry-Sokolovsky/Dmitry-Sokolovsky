@@ -6,9 +6,10 @@
   - [English for kids](https://dmitry-sokolovsky.github.io/English-for-kids/) - english learning game for kids
     - repo https://github.com/Dmitry-Sokolovsky/English-for-kids
     
-- [Momentum](https://dmitry-sokolovsky.github.io/Momentum/) - momentum app clone
+- [Momentum](https://dmitry-sokolovsky.github.io/Momentum/) - english learning game for kids
     - repo https://github.com/Dmitry-Sokolovsky/Momentum
-    
+- [Pets](https://dmitry-sokolovsky.github.io/Pets/pages/main/) - website about pets
+    - repo https://github.com/Dmitry-Sokolovsky/Pets
     ### Languages and Tools
     ![JavaScript](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
     ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css)
