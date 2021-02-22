@@ -3,8 +3,8 @@
 
 👯 Check out some of my study projects:
 
-  - [English for kids](https://rolling-scopes-school.github.io/dmitry-sokolovsky-JS2020Q3/english-for-kids/) - english learning game for kids
-    - repo git@github.com:rolling-scopes-school/dmitry-sokolovsky-JS2020Q3.git
+  - [English for kids](https://dmitry-sokolovsky.github.io/English-for-kids/) - english learning game for kids
+    - repo https://github.com/Dmitry-Sokolovsky/English-for-kids
     
     ### Languages and Tools
     ![JavaScript](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
