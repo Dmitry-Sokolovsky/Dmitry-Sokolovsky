@@ -12,6 +12,8 @@
     - repo https://github.com/Dmitry-Sokolovsky/Pets
 - [Calculator](https://dmitry-sokolovsky.github.io/Calculator/) - calculator
     - repo https://github.com/Dmitry-Sokolovsky/Calculator
+- [Virtual keyboard](https://dmitry-sokolovsky.github.io/virtual-keyboard/) - virtual keyboard
+    - repo https://github.com/Dmitry-Sokolovsky/virtual-keyboard
     ### Languages and Tools
     ![JavaScript](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
     ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css)
