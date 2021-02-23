@@ -10,6 +10,9 @@
     - repo https://github.com/Dmitry-Sokolovsky/Momentum
 - [Pets](https://dmitry-sokolovsky.github.io/Pets/pages/main/) - website about pets
     - repo https://github.com/Dmitry-Sokolovsky/Pets
+- [Covid dashboard](https://dmitry-sokolovsky.github.io/covid-dashboard/) - covid dashboard
+    - repo https://github.com/Dmitry-Sokolovsky/covid-dashboard
+    
 - [Calculator](https://dmitry-sokolovsky.github.io/Calculator/) - calculator
     - repo https://github.com/Dmitry-Sokolovsky/Calculator
 - [Virtual keyboard](https://dmitry-sokolovsky.github.io/virtual-keyboard/) - virtual keyboard
